@@ -1,0 +1,84 @@
+What to do on the server:
+
+*********************************
+Version 0.1:
+*********************************
+
+Player System:
+ - Change Password			- Done
+ - Buy Skin					- Done
+ - Buy Weapons				- Done
+ - Buy Houses				- Done 
+ - Buy Vehicles				- Done
+
+Vehicle System:
+ - Vehicle Ownership		- Done
+ - Vehicle Dealership		- Done
+ - Vehicle Fuel				- Done
+
+House System:
+ - House Buyable			- Done
+ - House Remove				- Done
+ - House Creation			- Done
+ - House Sell				- Done
+
+Faction System:
+ - LAPD						- Done
+ - LAFMD					- Done
+
+Job System:
+ - Weapon Dealership		- Done
+ - Fedex					- Done
+ - Pizza Boy				- Done 
+ - Drug Smuggler			- Done
+ - Taxi Driver				- Done
+
+*********************************
+Version 0.2:
+*********************************
+
+Player System
+- Licenses					- Not Done
+
+Vehicle System:
+ - Vehicle Lockable			- Done
+ - Vehicle Insurance		- Not Done
+
+House System:
+ - House Storage			- Not Done
+ - House Lockable			- Not Done
+
+Faction System:
+ - News						- Not Done
+ - Rapid Recovery			- Not Done
+
+Job System:
+ - Trucker					- Not Done
+ - Body Guard				- Not Done
+ - Drug Dealer				- Not Done
+ - Crafts Man				- Not Done
+ - 2 Jobs					- Not Done
+ 
+Random:
+ - Shop Rob					- Not Done
+ 
+*********************************
+Version 0.3:
+*********************************
+
+Vehicle System:
+ - Vehicle Registration		- Not Done
+ - Vehicle Impound			- Not Done
+
+House System:
+ - House Rentable			- Not Done
+ - House Robbable			- Not Done
+ 
+Faction System:
+ - DOC						- Not Done
+
+Job System:
+ - Engineer					- Not Done
+ - Brink					- Not Done
+ 
+ Random:
